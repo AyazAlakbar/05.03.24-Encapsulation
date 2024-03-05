@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ProBook\\Desktop\\PB301\\class works\\05.03.24-Encapsulation\\05.03.24-Encapsulation\\05.03.24-Encapsulation.csproj",
+      "projectUniqueName": "C:\\Users\\ProBook\\Desktop\\PB301\\05.03.24-Encapsulation\\05.03.24-Encapsulation\\05.03.24-Encapsulation\\05.03.24-Encapsulation.csproj",
       "projectName": "05.03.24-Encapsulation",
-      "projectPath": "C:\\Users\\ProBook\\Desktop\\PB301\\class works\\05.03.24-Encapsulation\\05.03.24-Encapsulation\\05.03.24-Encapsulation.csproj",
+      "projectPath": "C:\\Users\\ProBook\\Desktop\\PB301\\05.03.24-Encapsulation\\05.03.24-Encapsulation\\05.03.24-Encapsulation\\05.03.24-Encapsulation.csproj",
       "packagesPath": "C:\\Users\\ProBook\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ProBook\\Desktop\\PB301\\class works\\05.03.24-Encapsulation\\05.03.24-Encapsulation\\obj\\",
+      "outputPath": "C:\\Users\\ProBook\\Desktop\\PB301\\05.03.24-Encapsulation\\05.03.24-Encapsulation\\05.03.24-Encapsulation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ProBook\\AppData\\Roaming\\NuGet\\NuGet.Config",

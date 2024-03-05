@@ -1,0 +1,15 @@
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\bin\Debug\net6.0\05.03.24-Encapsulation.exe
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\bin\Debug\net6.0\05.03.24-Encapsulation.deps.json
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\bin\Debug\net6.0\05.03.24-Encapsulation.runtimeconfig.json
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\bin\Debug\net6.0\05.03.24-Encapsulation.dll
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\bin\Debug\net6.0\05.03.24-Encapsulation.pdb
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\obj\Debug\net6.0\05.03.24-Encapsulation.csproj.AssemblyReference.cache
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\obj\Debug\net6.0\05.03.24-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\obj\Debug\net6.0\05.03.24-Encapsulation.AssemblyInfoInputs.cache
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\obj\Debug\net6.0\05.03.24-Encapsulation.AssemblyInfo.cs
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\obj\Debug\net6.0\05.03.24-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\obj\Debug\net6.0\05.03.24-Encapsulation.dll
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\obj\Debug\net6.0\refint\05.03.24-Encapsulation.dll
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\obj\Debug\net6.0\05.03.24-Encapsulation.pdb
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\obj\Debug\net6.0\05.03.24-Encapsulation.genruntimeconfig.cache
+C:\Users\ProBook\Desktop\PB301\05.03.24-Encapsulation\05.03.24-Encapsulation\05.03.24-Encapsulation\obj\Debug\net6.0\ref\05.03.24-Encapsulation.dll
